@@ -10,7 +10,7 @@ In the multiplication problem below, each letter represents a UNIQUE digit. Writ
 ### How to test the script
 1. Clone the repository and cd into the project folder
 2. Ensure that you have `ruby` installed to be able to use `ruby` and to also run the application
-3. Run `ruby example.rb` to view the solution
+3. Run `ruby script.rb` to view the solution
 
 ### Technologies
 1. Ruby

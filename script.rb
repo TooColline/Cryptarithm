@@ -9,10 +9,6 @@ class Example
   @@fun = []
   @@stn = []
 
-#   def self.calcpossiblestns
-#     @@calcpossiblestns
-#   end
-
   def listoffunpossibilities
     # FUN values should meet the criteria below:
     # 1. 3 digit value
